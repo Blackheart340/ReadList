@@ -52,6 +52,7 @@
 * [Семь навыков высокоэффективных людей](https://www.ozon.ru/context/detail/id/4749424/)
 * [Думай медленно... решай быстро](http://www.ozon.ru/context/detail/id/137890328/)
 * [Человеческий фактор](https://www.ozon.ru/context/detail/id/27682946/)
+* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
 ### Development
 
