@@ -15,6 +15,10 @@
 * [Дизайн-мышление в бизнесе](https://www.mann-ivanov-ferber.ru/books/paperbook/changebydesign/)
 * [Покупатель на крючке](https://www.ozon.ru/context/detail/id/28516860/)
 * [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/)
+* [45 татуировок менеджера](http://www.ozon.ru/context/detail/id/23737592/)
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?ie=UTF8&qid=1503905386&sr=8-1&keywords=high+output+management)
+* [От хорошего к великому](http://www.ozon.ru/context/detail/id/28287178/)
+* [The 4 Imperatives of Great Leaders](http://www.ozon.ru/context/detail/id/22509036/)
 
 ### Agile
 
@@ -44,7 +48,10 @@
 * [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
 * [Сначала скажите "НЕТ"](https://www.ozon.ru/context/detail/id/5593847/)
 * [Договориться можно обо всем](https://www.ozon.ru/context/detail/id/5707417/)
-
+* [Как завоевывать друзей и оказывать влияние на людей](https://www.ozon.ru/context/detail/id/138526308/)
+* [Семь навыков высокоэффективных людей](https://www.ozon.ru/context/detail/id/4749424/)
+* [Думай медленно... решай быстро](http://www.ozon.ru/context/detail/id/137890328/)
+* [Человеческий фактор](https://www.ozon.ru/context/detail/id/27682946/)
 
 ### Development
 
