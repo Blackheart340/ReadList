@@ -56,6 +56,7 @@
 
 ### Development
 
+* [Совершенный код](http://lib.rus.ec/b/131340)
 * [Как тестируют в Google](https://www.piter.com/product/kak-testiruyut-v-google)
 * [Архитектура корпоративных программных приложений](http://www.ozon.ru/context/detail/id/1616782/)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
